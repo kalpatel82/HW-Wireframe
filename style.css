@@ -26,9 +26,9 @@ nav {
 }
 
 
-.wrapper{
+/* .wrapper{
   display: inline;
-}
+} */
 
 
 #section{
@@ -75,10 +75,10 @@ nav {
 }
 
 footer{
-position: relative;
+position: absolute;
 background: #ebebeb;
 color: #777;
+bottom: 310px;
 width: 900px;
-height: 20px;
-bottom: -400px;
+
 }
