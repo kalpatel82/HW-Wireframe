@@ -75,10 +75,11 @@ nav {
 }
 
 footer{
-position: absolute;
+position: fixed;
 background: #ebebeb;
 color: #777;
-bottom: 310px;
+top: 570px;
 width: 900px;
+height: 60px;
 
 }
